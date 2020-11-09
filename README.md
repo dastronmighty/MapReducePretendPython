@@ -29,3 +29,7 @@ Same Idea though
 ## If you want to see how it works theres some examples in /examples
 
 note: I was too lazy to implement a matrix class so I used NumPy in the MatrixMultiplication example
+
+
+### TODO
+- Turn this monstrosity into a proper package
