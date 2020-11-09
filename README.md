@@ -33,3 +33,4 @@ note: I was too lazy to implement a matrix class so I used NumPy in the MatrixMu
 
 ### TODO
 - Turn this monstrosity into a proper package
+- Add some threading to make it more **Authentic**. 
